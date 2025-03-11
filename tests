@@ -1,0 +1,113 @@
+# Sample test entries for Insurance Outreach AI
+test_prospects = [
+    {
+        "company_name": "NexusTech Solutions",
+        "industry": "tech",
+        "contact_name": "Sarah Chen",
+        "email": "s.chen@nexustech.io",
+        "phone": "+1-415-555-9876",
+        "notes": "Fast-growing startup with 120 employees. Recently secured Series B funding. Expanding their cloud services division. Current insurance policy expires in 2 months.",
+        "engagement_level": "low",
+        "preferred_channel": "email",
+        "objections": "too expensive, already have coverage, bad timing"
+    },
+    {
+        "company_name": "Summit Financial Group",
+        "industry": "finance",
+        "contact_name": "Marcus Williams",
+        "email": "m.williams@summitfg.com",
+        "phone": "+1-212-555-4321",
+        "notes": "Established wealth management firm with 75 employees. Looking to expand to two new locations. Recently had a minor data breach incident.",
+        "engagement_level": "medium",
+        "preferred_channel": "call",
+        "objections": "regulatory concerns, complex compliance needs"
+    },
+    {
+        "company_name": "Wellness Medical Center",
+        "industry": "healthcare",
+        "contact_name": "Dr. Jennifer Lopez",
+        "email": "dr.lopez@wellnessmedical.org",
+        "phone": "+1-312-555-7890",
+        "notes": "Multi-specialty clinic with 25 physicians and 60 support staff. Looking for comprehensive malpractice and liability coverage. Expanding telehealth services.",
+        "engagement_level": "high",
+        "preferred_channel": "both",
+        "objections": "specific coverage requirements, previous bad experience"
+    },
+    {
+        "company_name": "Urban Trends Boutique",
+        "industry": "retail",
+        "contact_name": "Alex Johnson",
+        "email": "alex@urbantrends.shop",
+        "phone": "+1-310-555-6543",
+        "notes": "Fashion retailer with 5 physical locations and growing e-commerce presence. Recently experienced inventory loss due to theft. Looking to expand to 3 new locations this year.",
+        "engagement_level": "none",
+        "preferred_channel": "email",
+        "objections": "price sensitivity, seasonal business fluctuations"
+    },
+    {
+        "company_name": "Precision Manufacturing Inc.",
+        "industry": "manufacturing",
+        "contact_name": "Robert Garcia",
+        "email": "r.garcia@precisionmfg.net",
+        "phone": "+1-734-555-2345",
+        "notes": "Industrial equipment manufacturer with 200+ employees. Factory operates 24/7. Recently invested in new robotics technology. Has had workers comp claims in the past year.",
+        "engagement_level": "low",
+        "preferred_channel": "call",
+        "objections": "complex equipment valuation, risk assessment concerns"
+    },
+    {
+        "company_name": "Brightway Academy",
+        "industry": "education",
+        "contact_name": "Patricia Martinez",
+        "email": "p.martinez@brightway.edu",
+        "phone": "+1-617-555-8765",
+        "notes": "Private K-12 school with 45 faculty members and 500+ students. Expanding campus next year. Has outdated liability coverage. Concerned about cyber threats.",
+        "engagement_level": "medium",
+        "preferred_channel": "both",
+        "objections": "budget constraints, board approval process"
+    },
+    {
+        "company_name": "Cornerstone Builders LLC",
+        "industry": "construction",
+        "contact_name": "David Wilson",
+        "email": "d.wilson@cornerstonebuild.com",
+        "phone": "+1-303-555-1098",
+        "notes": "Mid-size construction company specializing in commercial projects. 75 employees plus subcontractors. Recently won bid for major airport renovation. Previous claim for equipment damage.",
+        "engagement_level": "high",
+        "preferred_channel": "email",
+        "objections": "specific contract requirements, project-based needs"
+    },
+    {
+        "company_name": "GreenPower Solutions",
+        "industry": "energy",
+        "contact_name": "Michelle Thompson",
+        "email": "m.thompson@greenpowersolutions.energy",
+        "phone": "+1-713-555-4567",
+        "notes": "Renewable energy company with focus on solar installation. 150 employees. Expanding residential services. Looking for better equipment and liability coverage.",
+        "engagement_level": "none",
+        "preferred_channel": "call",
+        "objections": "specialized industry needs, previous quote was too high"
+    },
+    {
+        "company_name": "Lakeside Resort & Spa",
+        "industry": "hospitality",
+        "contact_name": "James Rodriguez",
+        "email": "j.rodriguez@lakesideresort.com",
+        "phone": "+1-305-555-6789",
+        "notes": "Luxury resort with 245 rooms, 3 restaurants, and spa facilities. 180 staff members. Recently renovated property. Seasonal business with peak summer traffic.",
+        "engagement_level": "low",
+        "preferred_channel": "both",
+        "objections": "seasonal business, property valuation concerns"
+    },
+    {
+        "company_name": "Metro Transit Solutions",
+        "industry": "transportation",
+        "contact_name": "Olivia Parker",
+        "email": "o.parker@metrotransit.co",
+        "phone": "+1-312-555-3456",
+        "notes": "Fleet management company with 85 vehicles and 120 employees. Looking to upgrade insurance for new electric vehicles. Has complex liability concerns.",
+        "engagement_level": "medium",
+        "preferred_channel": "email",
+        "objections": "fleet-specific coverage needs, previous accidents"
+    }
+]
