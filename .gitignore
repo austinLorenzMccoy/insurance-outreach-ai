@@ -18,3 +18,40 @@ __pycache__/
 *.pyd
 *.pyw
 *.pyz
+
+# Python build artifacts
+build/
+dist/
+.eggs/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Compiled extensions
+*.so
+.Python
+
+# Test & coverage
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Type checkers
+.mypy_cache/
+.pytype/
+
+# Virtual environments
+.venv/
+env/
+ENV/
+
+# Editors/IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Python cache dirs (recursive)
+**/__pycache__/

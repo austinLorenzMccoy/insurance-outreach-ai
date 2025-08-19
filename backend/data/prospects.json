@@ -1,0 +1,535 @@
+{
+  "prospects": {
+    "5332b767-211e-400c-8ff3-f3e4ad6000af": {
+      "id": "5332b767-211e-400c-8ff3-f3e4ad6000af",
+      "company_name": "TechSecure Inc",
+      "industry": "tech",
+      "contact_name": "Sarah Johnson",
+      "email": "s.johnson@techsecure.com",
+      "phone": "+1234567890",
+      "engagement_level": "low",
+      "notes": "Startup specializing in blockchain security solutions",
+      "last_contact": "2025-03-11 11:08:48.173295",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "ddcbd0bd-4305-4aab-9dbb-cc3921333be9": {
+      "id": "ddcbd0bd-4305-4aab-9dbb-cc3921333be9",
+      "company_name": "Summit Financial Group",
+      "industry": "finance",
+      "contact_name": "Marcus Williams",
+      "email": "m.williams@summitfg.com",
+      "phone": "+1-212-555-4321",
+      "engagement_level": "medium",
+      "notes": "Established wealth management firm with 75 employees. Looking to expand to two new locations. Recently had a minor data breach incident",
+      "last_contact": "2025-03-11 12:43:50.697205",
+      "preferred_channel": "call",
+      "objections": [
+        "regulatory concerns",
+        "complex compliance needs"
+      ]
+    },
+    "4a63c6c2-ee21-421d-a808-d8006b6ead55": {
+      "id": "4a63c6c2-ee21-421d-a808-d8006b6ead55",
+      "company_name": "Urban Trends Boutique",
+      "industry": "retail",
+      "contact_name": "Alex Johnson",
+      "email": "alex@urbantrends.shop",
+      "phone": "+1-310-555-6543",
+      "engagement_level": "low",
+      "notes": "Fashion retailer with 5 physical locations and growing e-commerce presence. Recently experienced inventory loss due to theft. Looking to expand to 3 new locations this year.",
+      "last_contact": "2025-03-11 14:20:22.580859",
+      "preferred_channel": "email",
+      "objections": [
+        "price sensitivity",
+        "seasonal business fluctuations"
+      ]
+    },
+    "e76267cf-ce4b-45b5-aeae-a034de83e9cd": {
+      "id": "e76267cf-ce4b-45b5-aeae-a034de83e9cd",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+234 8168539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing",
+      "last_contact": "2025-03-12 16:28:25.165976",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "09911397-6dde-4c00-b49f-a863271b889d": {
+      "id": "09911397-6dde-4c00-b49f-a863271b889d",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+23468539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing",
+      "last_contact": "2025-03-12 16:50:15.049847",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "a56564e7-dcd2-4279-9c79-340e76d5e868": {
+      "id": "a56564e7-dcd2-4279-9c79-340e76d5e868",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+23468539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing",
+      "last_contact": "2025-03-12 16:55:55.863593",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "36fa3f6b-1440-40d4-aecb-f6e2dfe8fd4e": {
+      "id": "36fa3f6b-1440-40d4-aecb-f6e2dfe8fd4e",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+2348168539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing",
+      "last_contact": "2025-03-12 16:58:34.174685",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "56308f21-841c-4dd4-8922-43433f5bfb6e": {
+      "id": "56308f21-841c-4dd4-8922-43433f5bfb6e",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+2348168539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing",
+      "last_contact": "2025-03-12 18:08:21.558663",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "441bb387-7e26-41e8-8e81-4e921db939d4": {
+      "id": "441bb387-7e26-41e8-8e81-4e921db939d4",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+2348168539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing",
+      "last_contact": "2025-03-12 18:14:02.181340",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "0be02330-b81a-418a-b0cd-150562e43398": {
+      "id": "0be02330-b81a-418a-b0cd-150562e43398",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+2348168539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing\"",
+      "last_contact": "2025-03-12 18:24:49.960250",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "03ff5d7a-c7fc-4cc1-aaf3-667c754b3505": {
+      "id": "03ff5d7a-c7fc-4cc1-aaf3-667c754b3505",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+2348168539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing\"",
+      "last_contact": "2025-03-12 18:27:49.768100",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "4452bac4-e6c7-4c56-84ee-ecac78e5141e": {
+      "id": "4452bac4-e6c7-4c56-84ee-ecac78e5141e",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+2348168539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing\"",
+      "last_contact": "2025-03-12 18:31:52.363994",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "9dfe8c0c-e29d-4a41-8436-c37801d08eb5": {
+      "id": "9dfe8c0c-e29d-4a41-8436-c37801d08eb5",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+2348168539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing\"",
+      "last_contact": "2025-03-12 18:55:18.757194",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "8e9061f9-76b7-4bf0-9e3a-fed1f1294302": {
+      "id": "8e9061f9-76b7-4bf0-9e3a-fed1f1294302",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+2348168539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing\"",
+      "last_contact": "2025-03-12 18:58:13.222201",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "dcd66fef-b5bd-432e-83c0-8bb577443b08": {
+      "id": "dcd66fef-b5bd-432e-83c0-8bb577443b08",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+2348168539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing\"",
+      "last_contact": "2025-03-12 19:14:12.039218",
+      "preferred_channel": "email",
+      "objections": []
+    },
+    "435de9c5-1c1b-4046-8992-78ebd08b17d8": {
+      "id": "435de9c5-1c1b-4046-8992-78ebd08b17d8",
+      "company_name": "NexusTech Solutions",
+      "industry": "tech",
+      "contact_name": "Sarah Chen",
+      "email": "chibuezeaugustine23@gmail.com",
+      "phone": "+2348168539153",
+      "engagement_level": "low",
+      "notes": "too expensive, already have coverage, bad timing",
+      "last_contact": "2025-03-12 20:41:41.378819",
+      "preferred_channel": "email",
+      "objections": []
+    }
+  },
+  "history": {
+    "f6371818-dc86-40f0-b3df-a01376abcbf3": {
+      "id": "f6371818-dc86-40f0-b3df-a01376abcbf3",
+      "prospect_id": "2c4ba162-346c-4817-804f-7fdfec1ebb47",
+      "timestamp": "2025-03-11 10:29:04.810023",
+      "channel": "email",
+      "content": {
+        "subject": "Protecting Your Blockchain Security Solutions with Expert Insurance Guidance",
+        "body": "Dear Sarah,\n\nAs a startup pioneer in the blockchain security space, TechSecure Inc is revolutionizing the way companies approach data protection. I'm excited to introduce myself as an insurance specialist who understands the unique needs of innovative tech companies like yours.\n\nIn today's rapidly evolving digital landscape, cybersecurity threats are becoming increasingly sophisticated. As a blockchain security solutions provider, you know firsthand the importance of safeguarding your intellectual property and ensuring business continuity in the face of potential attacks. That's where I come in. With my expertise in tech insurance, I can help you navigate the complex risk landscape and design a customized insurance program that addresses your specific needs.\n\nOur insurance solutions are tailored to support the scalability and growth of innovative companies like TechSecure Inc. By partnering with us, you'll gain access to comprehensive coverage options, including cybersecurity insurance, intellectual property protection, and business interruption insurance. This will enable you to focus on driving innovation and growth, while we help mitigate potential risks and protect your business.\n\nI'd love to schedule a call to discuss how our insurance expertise can support TechSecure Inc's continued success. Would you be open to a brief conversation to explore how we can help?\n\nBest regards,\n\n[Your Name]\nInsurance Specialist for Tech Companies\n[Your Company]\n[Contact Information]"
+      },
+      "status": "sent",
+      "response": null
+    },
+    "e181271e-1e19-4ccb-825f-7782262b649b": {
+      "id": "e181271e-1e19-4ccb-825f-7782262b649b",
+      "prospect_id": "5332b767-211e-400c-8ff3-f3e4ad6000af",
+      "timestamp": "2025-03-11 11:08:48.173295",
+      "channel": "email",
+      "content": {
+        "subject": "Protecting the Future of Blockchain Security**",
+        "body": "Dear Sarah,\n\nAs a specialist in insurance solutions for tech companies, I've been following the exciting developments in blockchain security, and TechSecure Inc's innovative approach has caught my attention. With the increasing adoption of blockchain technology, cybersecurity threats are becoming more sophisticated, and it's crucial for startups like yours to have a robust risk management strategy in place.\n\nOur insurance solutions are designed specifically for tech companies like TechSecure Inc, with a focus on protecting your intellectual property, ensuring business continuity, and mitigating the impact of cyber threats. We understand the unique challenges of scaling a tech business, and our policies are tailored to adapt to your evolving needs. In the fast-paced world of blockchain security, you can't afford to compromise on protection.\n\nI'd love to discuss how our customized insurance solutions can help TechSecure Inc navigate the risks associated with digital transformation. Would you be open to a brief call to explore how we can support your growth and innovation?\n\nBest regards,\n\n[Your Name]\nInsurance Specialist for Tech Companies\n[Your Company]\n[Contact Information]"
+      },
+      "status": "sent",
+      "response": null
+    },
+    "589a4e3a-07f8-40bc-a9ba-d60661cc1fba": {
+      "id": "589a4e3a-07f8-40bc-a9ba-d60661cc1fba",
+      "prospect_id": "a19e7415-7eb8-4623-8adb-3a0a2397b53d",
+      "timestamp": "2025-03-11 11:43:43.975971",
+      "channel": "email",
+      "content": {
+        "subject": "Protecting Your Blockchain Breakthroughs**",
+        "body": "Dear Sarah,\n\nAs a startup pioneer in blockchain security solutions, TechSecure Inc is at the forefront of innovation in the tech industry. I'm excited to introduce you to our specialized insurance services, designed to safeguard your company's unique risks and opportunities.\n\nIn the rapidly evolving blockchain landscape, cybersecurity threats and intellectual property protection are top concerns. Our team of tech-savvy insurance experts understands the importance of securing your digital assets and protecting your competitive edge. We can help you mitigate risks, ensure business continuity, and scale your operations with confidence.\n\nAt [Your Company Name], we're dedicated to providing tailored insurance solutions that address the specific needs of tech companies like yours. Our value proposition includes access to bespoke coverage options, expert risk assessments, and proactive guidance to help you navigate the complex insurance landscape. By partnering with us, you can focus on driving innovation and growth, knowing your business is protected from uncertainty.\n\nI'd love to discuss how our insurance solutions can support TechSecure Inc's continued success. Would you be open to a brief call to explore your current risk management strategies and identify potential areas for improvement? Please let me know if you're interested, and we can schedule a convenient time to talk.\n\nBest regards,\n\n[Your Name]\nInsurance Specialist for Tech Companies\n[Your Company Name]\n[Contact Information]"
+      },
+      "status": "sent",
+      "response": null
+    },
+    "eb31abac-00b8-4818-a3ff-7f5b468b49b8": {
+      "id": "eb31abac-00b8-4818-a3ff-7f5b468b49b8",
+      "prospect_id": "627c6e5a-0a9e-495b-87c0-a182cb23b3ba",
+      "timestamp": "2025-03-11 12:15:49.707765",
+      "channel": "email",
+      "content": {
+        "subject": "Protecting Your Blockchain Security Solutions with Confidence",
+        "body": "Dear Sarah,\n\nAs a startup specializing in blockchain security solutions, I'm sure you're no stranger to the rapidly evolving landscape of cybersecurity threats. At [Your Company Name], we understand the unique risks and challenges that come with innovating in the tech space. That's why we're dedicated to providing tailored insurance solutions that help companies like TechSecure Inc scale with confidence.\n\nIn the blockchain security space, intellectual property protection and business continuity are crucial. A single breach or disruption can have devastating consequences for your reputation and bottom line. Our team of experts has extensive experience working with tech companies, and we've developed a suite of insurance products designed to address the specific risks you face. From cyber liability to intellectual property protection, we can help you mitigate risk and ensure business continuity in the face of uncertainty.\n\nI'd love to discuss how our insurance solutions can help TechSecure Inc protect its innovative solutions and continue to drive growth. Would you be open to a brief call to explore how we can support your business goals? Please let me know a convenient time, and I'll make sure to schedule it.\n\nBest regards,\n\n[Your Name]\nInsurance Specialist\n[Your Company Name]\n[Contact Information]"
+      },
+      "status": "sent",
+      "response": null
+    },
+    "dae7e000-63e2-417e-985d-fb506e7d49a9": {
+      "id": "dae7e000-63e2-417e-985d-fb506e7d49a9",
+      "prospect_id": "ddcbd0bd-4305-4aab-9dbb-cc3921333be9",
+      "timestamp": "2025-03-11 12:43:50.697205",
+      "channel": "call",
+      "content": {
+        "introduction": "****\nHi Marcus, this is [Your Name] from [Your Company]. I wanted to follow up on our previous conversation regarding Summit Financial Group's insurance needs. As an expert in financial services insurance, I've worked with numerous wealth management firms, and I'm confident that I can help you address your concerns and identify opportunities for growth.",
+        "key_points": "* Regulatory compliance and fraud protection solutions tailored to the financial industry\n* Customized insurance programs to mitigate risk and ensure business continuity\n* Expertise in navigating complex compliance needs and minimizing potential liabilities\n* ROI-focused approach to ensure that our solutions align with your business goals",
+        "questions": "1. How has the expansion to two new locations impacted your risk management strategy, and are there any specific concerns you're addressing in this process?\n2. Can you tell me more about the minor data breach incident you experienced, and how you're working to prevent similar incidents in the future?\n3. What are your top priorities for the next quarter, and how can our insurance solutions support those goals?",
+        "objection_handling": "* Regulatory concerns:\n\"I completely understand your concerns about regulatory compliance. Our team has extensive experience working with financial institutions, and we're well-versed in the latest regulations and requirements. We can help you navigate the complexities of compliance and ensure that your insurance program is aligned with your business goals. In fact, our solutions have helped similar firms reduce their compliance burden by up to 30%.\"\n* Complex compliance needs:\n\"I appreciate your concerns about complex compliance needs. Our team takes a consultative approach to understanding your business and identifying areas where we can add value. We'll work closely with you to develop a customized insurance program that addresses your unique needs and minimizes potential liabilities. We've helped numerous financial institutions simplify their compliance processes and reduce their risk exposure.\"",
+        "close": "Marcus, I believe our insurance solutions can help Summit Financial Group address your regulatory concerns, mitigate risk, and support your expansion plans. I'd like to propose a meeting to discuss your specific needs and provide a customized proposal. Would you be available for a call next week to explore this further? Alternatively, I can send over some information on our solutions and we can schedule a follow-up call at your convenience."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "7f88a4cc-f563-4a3a-ab38-8644b61848b2": {
+      "id": "7f88a4cc-f563-4a3a-ab38-8644b61848b2",
+      "prospect_id": "8c6e7328-d0d9-4437-b8c0-b38f435f03c2",
+      "timestamp": "2025-03-11 14:17:21.029571",
+      "channel": "email",
+      "content": {
+        "subject": "Protecting Your Blockchain Security Solutions from Emerging Risks",
+        "body": "Dear Sarah,\n\nAs a specialist in insurance solutions for tech companies, I came across TechSecure Inc and was impressed by your innovative approach to blockchain security. In today's digital landscape, startups like yours are revolutionizing the way we think about security, and it's essential to ensure your business is protected from emerging risks.\n\nIn the tech industry, cybersecurity risks are increasingly prevalent, and startups are often the most vulnerable targets. A single data breach or intellectual property infringement can have devastating consequences for your business. That's why I'd like to introduce you to our tailored insurance solutions designed specifically for tech companies like yours. Our coverage options include cybersecurity insurance to mitigate the financial impact of a breach, intellectual property insurance to protect your innovative solutions, and business interruption insurance to ensure business continuity in the event of an unexpected disruption.\n\nAs a startup, you're likely focused on scaling your business and driving growth. Our insurance solutions can help you achieve that by providing the necessary protection and risk management strategies to support your digital transformation. I'd love to discuss how our solutions can help TechSecure Inc thrive in this rapidly evolving industry.\n\nIf you're interested in learning more, I'd be happy to set up a call to explore your unique risks and challenges. Please let me know if you'd like to schedule a conversation.\n\nBest regards,\n\n[Your Name]\nInsurance Specialist for Tech Companies\n[Your Company]\n[Your Contact Information]"
+      },
+      "status": "sent",
+      "response": null
+    },
+    "97a1d313-4ad9-45b9-a305-3e8e207f9817": {
+      "id": "97a1d313-4ad9-45b9-a305-3e8e207f9817",
+      "prospect_id": "4a63c6c2-ee21-421d-a808-d8006b6ead55",
+      "timestamp": "2025-03-11 14:20:22.580859",
+      "channel": "email",
+      "content": {
+        "subject": "Protecting Your Urban Trends Boutique's Success",
+        "body": "Hi Alex,\n\nAs a fashion retailer, you understand the importance of staying ahead of the curve. At [Your Company Name], we specialize in helping retailers like Urban Trends Boutique navigate the unique challenges of the industry. With five physical locations and a growing e-commerce presence, you've built a strong foundation for your business.\n\nI'd like to highlight a crucial aspect of your business that may be overlooked: insurance protection. As you expand to three new locations this year, it's essential to ensure you're adequately covered against potential risks. Recently, you've experienced inventory loss due to theft, which can be devastating to your bottom line. Our team can help you tailor a comprehensive insurance package that addresses premises liability, product liability, and business interruption risks. This includes specialized coverage for inventory and seasonal fluctuations, which I understand can be a concern for your business.\n\nWe understand that price sensitivity is a top priority for retailers. That's why we work with top-rated insurance carriers to provide competitive rates without compromising on coverage. Our goal is to help you protect your business while maintaining a healthy profit margin. I'd love to discuss how our expertise can benefit Urban Trends Boutique. Would you be open to a brief call to explore your current insurance setup and identify potential areas for improvement?\n\nLooking forward to connecting with you, Alex.\n\nBest regards,\n\n[Your Name]\nInsurance Consultant\n[Your Company Name]\n[Contact Information]"
+      },
+      "status": "sent",
+      "response": null
+    },
+    "4f717672-14a5-4eaa-ac68-6e93e550545a": {
+      "id": "4f717672-14a5-4eaa-ac68-6e93e550545a",
+      "prospect_id": "0526a7eb-1f65-46d1-8d35-156d79bc4038",
+      "timestamp": "2025-03-12 16:19:17.666465",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "sent",
+      "response": null
+    },
+    "e1443d3a-a98f-49ff-9e12-1b9482b56a31": {
+      "id": "e1443d3a-a98f-49ff-9e12-1b9482b56a31",
+      "prospect_id": "e795057d-840a-4d64-b93d-cbad4d37de4a",
+      "timestamp": "2025-03-12 16:19:41.599145",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "sent",
+      "response": null
+    },
+    "4ad6938b-c652-42dc-b049-52c814c6db42": {
+      "id": "4ad6938b-c652-42dc-b049-52c814c6db42",
+      "prospect_id": "e76267cf-ce4b-45b5-aeae-a034de83e9cd",
+      "timestamp": "2025-03-12 16:28:25.165976",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "sent",
+      "response": null
+    },
+    "b160db8c-2bf4-40f4-a23f-fa261dac091e": {
+      "id": "b160db8c-2bf4-40f4-a23f-fa261dac091e",
+      "prospect_id": "09911397-6dde-4c00-b49f-a863271b889d",
+      "timestamp": "2025-03-12 16:50:15.049847",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "sent",
+      "response": null
+    },
+    "ae27a0cc-f218-451f-88e2-ad59382ce8b0": {
+      "id": "ae27a0cc-f218-451f-88e2-ad59382ce8b0",
+      "prospect_id": "a56564e7-dcd2-4279-9c79-340e76d5e868",
+      "timestamp": "2025-03-12 16:55:55.863593",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "sent",
+      "response": null
+    },
+    "7b15439f-2dfe-4fc2-973a-443649f9a6f8": {
+      "id": "7b15439f-2dfe-4fc2-973a-443649f9a6f8",
+      "prospect_id": "36fa3f6b-1440-40d4-aecb-f6e2dfe8fd4e",
+      "timestamp": "2025-03-12 16:58:34.174685",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "sent",
+      "response": null
+    },
+    "b60c1385-55b4-4675-a6f7-1a96ee402282": {
+      "id": "b60c1385-55b4-4675-a6f7-1a96ee402282",
+      "prospect_id": "fec0ed7c-5b88-4411-8c14-35b833f1e9f0",
+      "timestamp": "2025-03-12 18:05:55.599616",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "87360ba0-28d3-43b2-b0d5-cf5a30fe8150": {
+      "id": "87360ba0-28d3-43b2-b0d5-cf5a30fe8150",
+      "prospect_id": "56308f21-841c-4dd4-8922-43433f5bfb6e",
+      "timestamp": "2025-03-12 18:08:21.558663",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "cda80556-6e53-454f-a944-6ea6d3162247": {
+      "id": "cda80556-6e53-454f-a944-6ea6d3162247",
+      "prospect_id": "441bb387-7e26-41e8-8e81-4e921db939d4",
+      "timestamp": "2025-03-12 18:14:02.181340",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "ffcd32d2-68f1-4437-bf36-2bde928d1a0e": {
+      "id": "ffcd32d2-68f1-4437-bf36-2bde928d1a0e",
+      "prospect_id": "0be02330-b81a-418a-b0cd-150562e43398",
+      "timestamp": "2025-03-12 18:24:49.960250",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "d98186ea-a5df-4d1a-bf2c-390de1bd66d0": {
+      "id": "d98186ea-a5df-4d1a-bf2c-390de1bd66d0",
+      "prospect_id": "03ff5d7a-c7fc-4cc1-aaf3-667c754b3505",
+      "timestamp": "2025-03-12 18:27:49.768100",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "4641deaa-de8a-419e-b078-b4fc384874fd": {
+      "id": "4641deaa-de8a-419e-b078-b4fc384874fd",
+      "prospect_id": "4452bac4-e6c7-4c56-84ee-ecac78e5141e",
+      "timestamp": "2025-03-12 18:31:52.363994",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "b96df8a9-ffe1-41b5-a970-45e481dd8cf9": {
+      "id": "b96df8a9-ffe1-41b5-a970-45e481dd8cf9",
+      "prospect_id": "9dfe8c0c-e29d-4a41-8436-c37801d08eb5",
+      "timestamp": "2025-03-12 18:55:18.757194",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "1528323c-902b-4f32-b7db-26a4c60b97b0": {
+      "id": "1528323c-902b-4f32-b7db-26a4c60b97b0",
+      "prospect_id": "8e9061f9-76b7-4bf0-9e3a-fed1f1294302",
+      "timestamp": "2025-03-12 18:58:13.222201",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "2da2f0a7-105d-4005-8819-95985c7f7e8e": {
+      "id": "2da2f0a7-105d-4005-8819-95985c7f7e8e",
+      "prospect_id": "dcd66fef-b5bd-432e-83c0-8bb577443b08",
+      "timestamp": "2025-03-12 19:14:12.039218",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "73eaf99b-903b-4f9b-a304-068f4d33a4dc": {
+      "id": "73eaf99b-903b-4f9b-a304-068f4d33a4dc",
+      "prospect_id": "7b76fe92-0751-4af7-892d-fa3d7bf2beb4",
+      "timestamp": "2025-03-12 19:29:59.001444",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "9832c91c-3ed3-40d4-b83d-508afc555031": {
+      "id": "9832c91c-3ed3-40d4-b83d-508afc555031",
+      "prospect_id": "e831e088-4483-4498-866d-edc472c2330a",
+      "timestamp": "2025-03-12 20:28:10.640898",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "failed",
+      "response": null
+    },
+    "da286a19-47a5-463c-aa9f-75c3b132ec03": {
+      "id": "da286a19-47a5-463c-aa9f-75c3b132ec03",
+      "prospect_id": "1a1a2303-7170-4fa6-8c15-7ee6ee54a2bf",
+      "timestamp": "2025-03-12 20:38:27.648790",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "sent",
+      "response": null
+    },
+    "3f077e0a-d3f7-4741-8c8e-b07b31d81393": {
+      "id": "3f077e0a-d3f7-4741-8c8e-b07b31d81393",
+      "prospect_id": "435de9c5-1c1b-4046-8992-78ebd08b17d8",
+      "timestamp": "2025-03-12 20:41:41.378819",
+      "channel": "email",
+      "content": {
+        "subject": "Customized Insurance Offer for - Tech companies face unique cybersecurity risks.",
+        "body": "Dear - Tech companies face unique cybersecurity risks.\n- Business interruption coverage is critical for SaaS companies., we offer tailored insurance solutions."
+      },
+      "status": "sent",
+      "response": null
+    }
+  }
+}
